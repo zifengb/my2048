@@ -21,7 +21,7 @@ var calc = (function calc(){
 			// alert('解锁了第'+substractBy2(max)+'个英雄！');
 			swal({
 				title:'Congratulation',
-				text:'恭喜你成功解锁'+substractBy2(max)+'个英雄！fighting...'
+				text:'恭喜你成功解锁第'+substractBy2(max)+'个英雄！fighting...'
 			});
 		}
 	}

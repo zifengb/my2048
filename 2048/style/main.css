@@ -330,6 +330,11 @@ hr {
     font-size: 55px; 
     font-size: 0px; 
   }
+  /*customer css*/
+  .tile-container .tile .tile-inner{
+    -webkit-background-size: 100% 100% !important;
+    background-size: 100% 100% !important;
+  }
   .tile.tile-2 .tile-inner {
     background: url(../img/Teemo.png);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
@@ -758,4 +763,4 @@ hr {
     margin-top: 90px !important; }
   .game-message .lower {
     margin-top: 30px !important; } }
-/*修改的部分是背景图和字体的大小font-size:0*/
+/*修改的部分是背景图、字体的大小font-size:0、网格图的background-size*/

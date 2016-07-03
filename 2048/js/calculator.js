@@ -33,7 +33,7 @@ var calc = (function calc(){
 		},
 		8:{
 			// description:,
-			imageUrl:'LuLu_Square_0.png'
+			imageUrl:'Lulu_Square_0.png'
 		},
 		9:{
 			// description:,
